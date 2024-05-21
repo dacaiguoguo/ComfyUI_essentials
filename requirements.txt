@@ -1,4 +1,4 @@
 numba
 colour-science
-rembg
+rembg @ git+https://github.com/dacaiguoguo/rembg.git@3f3d41aac8646e96d850bdb5fca40dac829bff0d
 pixeloe
